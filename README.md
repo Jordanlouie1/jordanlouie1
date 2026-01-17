@@ -1,11 +1,13 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
-
 ## About
 👋 Hey — I'm Jordan Louie. I'm a Software Engineer at Microchip Technology. I work across embedded and full-stack software with an emphasis on Python and TypeScript, and I enjoy building computer-vision demos, wearable prototypes, and education tools.
 
 - Location: Boston, MA
-- Education: Purdue University — BS Computer Engineering; University of Colorado - Boulder — MS Electrical and Computer Engineering
+- Education:
+Purdue University — BS Computer Engineering 
+University of Colorado - Boulder — MS Electrical and Computer Engineering
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/jordanlouie1/](https://www.linkedin.com/in/jordanlouie1/)
 
 ## Featured Projects
 - 🎲 [3DME](https://github.com/Jordanlouie1/3DME) — Make 2D images 3D using Microsoft MoGe and Sam 3D
