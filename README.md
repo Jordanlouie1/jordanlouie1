@@ -3,11 +3,8 @@
 
 - Location: Boston, MA
 - Education:
-Purdue University — BS Computer Engineering 
-University of Colorado - Boulder — MS Electrical and Computer Engineering
-
-## Contact
-- LinkedIn: [https://www.linkedin.com/in/jordanlouie1/](https://www.linkedin.com/in/jordanlouie1/)
+- Purdue University — BS Computer Engineering 
+- University of Colorado - Boulder — MS Electrical and Computer Engineering
 
 ## Featured Projects
 - 🎲 [3DME](https://github.com/Jordanlouie1/3DME) — Make 2D images 3D using Microsoft MoGe and Sam 3D
@@ -20,3 +17,6 @@ University of Colorado - Boulder — MS Electrical and Computer Engineering
 - Languages: Python, C#, C++, TypeScript, JavaScript
 - Focus: Computer vision, machine learning, wearable/embedded systems
 - Interests: Hackathons, open-source, AR/3D, education technology, hardware prototyping
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/jordanlouie1/](https://www.linkedin.com/in/jordanlouie1/)
